@@ -2,6 +2,7 @@
 # IGTI - MBA Engenharia de Dados - EDD
 ## Criação de um pipeline de dados que faça a extração dos dados no MongoDB e na API do IBGE e deposite no Data Lake da empresa. Após a ingestão dos dados no Data Lake, o dado tratado e filtrado será disponibilizado em um Database para realização de algumas consultas.
 (Airflow com docker-compose; Data Lake: Amazaon S3; Database: Amazon RDS - MySQL)
+
 prof. Neylson Crepalde - @neylsoncrepalde
 
 ## 1. Subir o Airflow localmente em uma estrutura de containers, usando docker-compose para utilização mais robusta.
